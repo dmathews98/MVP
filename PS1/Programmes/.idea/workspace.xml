@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84f3f952-0b93-405f-9ed7-6204a2477907" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X7MEkoVywZlvyGfMNigHcNFWtj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PS1" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PS1" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Anaconda" type="PythonConfigurationType" factoryName="Python">
+      <module name="PS1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/untitled/bin/python" />
+      <option name="WORKING_DIRECTORY" value="/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/opt" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PS1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS1_ani.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f3f952-0b93-405f-9ed7-6204a2477907" name="Default Changelist" comment="" />
+      <created>1580392569613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580392569613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580473394496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580473394496" />
+    <state x="475" y="222" key="EnvironmentVariablesDialog" timestamp="1580404839490">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="475" y="222" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1580404839490" />
+    <state x="507" y="212" key="FileChooserDialogImpl" timestamp="1580404286908">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="212" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1580404286908" />
+    <state width="1419" height="303" key="GridCell.Tab.0.bottom" timestamp="1580475022151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580475022151" />
+    <state width="1419" height="303" key="GridCell.Tab.0.center" timestamp="1580475022151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580475022151" />
+    <state width="1419" height="303" key="GridCell.Tab.0.left" timestamp="1580475022150">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580475022150" />
+    <state width="1419" height="303" key="GridCell.Tab.0.right" timestamp="1580475022151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580475022151" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1580475022153">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580475022153" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1580475022152">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580475022152" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1580475022152">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580475022152" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1580475022153">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580475022153" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1580405390869">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580405390869" />
+    <state x="389" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1580472718934">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="389" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580472718934" />
+    <state x="420" y="294" key="com.intellij.ide.util.TipDialog/42.23.1398.877@42.23.1398.877" timestamp="1580392576243" />
+  </component>
+</project>

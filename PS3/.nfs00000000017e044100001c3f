@@ -1,0 +1,50 @@
+  File "Gauss-Seidel_solver.py", line 24
+SyntaxError: Non-ASCII character '\xc2' in file Gauss-Seidel_solver.py on line 24, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+Traceback (most recent call last):
+  File "Cahn-Hilliard_solver.py", line 179, in <module>
+    sim.run_data_gather()
+  File "Cahn-Hilliard_solver.py", line 126, in run_data_gather
+    title = 'CH-FE-phi'+str(self.phi_0)+'-data'+str(self.N)+'.txt'
+AttributeError: 'CahnHilliard' object has no attribute 'phi_0'
+  File "Jacobi_solver.py", line 23
+SyntaxError: Non-ASCII character '\xc2' in file Jacobi_solver.py on line 23, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+  File "Jacobi_solver.py", line 23
+SyntaxError: Non-ASCII character '\xc2' in file Jacobi_solver.py on line 23, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+  File "Gauss-Seidel_solver.py", line 24
+SyntaxError: Non-ASCII character '\xc2' in file Gauss-Seidel_solver.py on line 24, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+  File "Jacobi_solver.py", line 23
+SyntaxError: Non-ASCII character '\xc2' in file Jacobi_solver.py on line 23, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+  File "Jacobi_solver.py", line 23
+SyntaxError: Non-ASCII character '\xc2' in file Jacobi_solver.py on line 23, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+  File "Gauss-Seidel_solver.py", line 24
+SyntaxError: Non-ASCII character '\xc2' in file Gauss-Seidel_solver.py on line 24, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+  File "Gauss-Seidel_solver.py", line 24
+SyntaxError: Non-ASCII character '\xc2' in file Gauss-Seidel_solver.py on line 24, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+  File "Gauss-Seidel_solver.py", line 131
+    dist_data.append([i, j, self.dist(i,j,k), self.E_mag(Ef[0][i][j][k], Ef[1][i][j][k], Ef[2][i][j][k]))
+                                                                                                        ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "Jacobi_solver.py", line 283, in <module>
+    sim.run_convergence()
+  File "Jacobi_solver.py", line 225, in run_convergence
+    fig, ax = plt.subplots()
+  File "/usr/lib64/python2.7/site-packages/matplotlib/pyplot.py", line 1184, in subplots
+    fig = figure(**fig_kw)
+  File "/usr/lib64/python2.7/site-packages/matplotlib/pyplot.py", line 533, in figure
+    **kwargs)
+  File "/usr/lib64/python2.7/site-packages/matplotlib/backend_bases.py", line 161, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "/usr/lib64/python2.7/site-packages/matplotlib/backends/_backend_tk.py", line 1046, in new_figure_manager_given_figure
+    window = Tk.Tk(className="matplotlib")
+  File "/usr/lib64/python2.7/lib-tk/Tkinter.py", line 1745, in __init__
+    self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
+_tkinter.TclError: no display name and no $DISPLAY environment variable
+Traceback (most recent call last):
+  File "Jacobi_solver.py", line 283, in <module>
+    sim.run_convergence()
+  File "Jacobi_solver.py", line 221, in run_convergence
+    self.output_data_monopole()
+  File "Jacobi_solver.py", line 149, in output_data_monopole
+    full_data.append([i, j, k, dist(i, j, k), self.lattice[i,j,k], -Ef[0][i][j][k], -Ef[1][i][j][k], -Ef[2][i][j][k], self.mag(Ef[0][i][j][k], Ef[1][i][j][k], Ef[2][i][j][k])])
+NameError: global name 'dist' is not defined

@@ -1,0 +1,125 @@
+
+
+*******************************************************************************
+Fri Feb 28 16:27:05 2020
+
+
+FIT:    data read from "glider_data.txt"
+        format = z
+        #datapoints = 455
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x) [100:300]
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Fri Feb 28 16:27:36 2020
+
+
+FIT:    data read from "glider_data.txt"
+        format = z
+        #datapoints = 455
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.1997921360e+07   0.00e+00  2.03e+02    1.000000e+00   1.000000e+00
+   5 7.5816467974e+04  -8.53e-06  2.03e-03    5.958470e-03   2.519477e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 75816.5
+rel. change during last iteration : -8.53033e-11
+
+degrees of freedom    (FIT_NDF)                        : 453
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 12.937
+variance of residuals (reduced chisquare) = WSSR/ndf   : 167.365
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.00595847       +/- 0.004214     (70.73%)
+b               = 25.1948          +/- 1.211        (4.805%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Feb 28 16:28:25 2020
+
+
+FIT:    data read from "glider_data.txt"
+        format = z
+        x range restricted to [100.000 : 300.000]
+        #datapoints = 182
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.0637775092e+04   0.00e+00  1.78e+01    5.958470e-03   2.519477e+01
+   5 2.3935194594e+00  -2.60e-08  1.78e-04    2.500046e-01  -2.547482e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.39352
+rel. change during last iteration : -2.59568e-13
+
+degrees of freedom    (FIT_NDF)                        : 180
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.115314
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0132973
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.250005         +/- 0.0001627    (0.06508%)
+b               = -25.4748         +/- 0.03356      (0.1318%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.967  1.000 
+
+
+*******************************************************************************
+Fri Feb 28 16:29:13 2020
+
+
+FIT:    data read from "glider_data.txt"
+        format = z
+        x range restricted to [100.000 : 300.000]
+        #datapoints = 182
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 2.3935194594e+00   0.00e+00  4.07e+01    2.500046e-01  -2.547482e+01
+   1 2.3935194594e+00   0.00e+00  4.07e+01    2.500046e-01  -2.547482e+01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.39352
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 180
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.115314
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0132973
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.250005         +/- 0.0001627    (0.06508%)
+b               = -25.4748         +/- 0.03356      (0.1318%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.967  1.000 
